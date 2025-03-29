@@ -15,7 +15,7 @@
   <img src="https://github.com/immiesp/DADS5001_miniproject/blob/main/figures/Figure2.png?raw=true" width="1000"/>
 </p>
 
-<p align="center"><em>Figure 2: ปริมาณการปล่อยและการดูดซับก๊าซเรือนกระจก แยกตามภาคส่วน ตั้งแต่ปี 1990 – 2019</em></p>
+<p align="center"><em>Figure 2: ปริมาณการปล่อยก๊าซเรือนกระจกของประเทศไทย แยกตามภาคส่วน ตั้งแต่ปี 1990 – 2021</em></p>
 
 
 
