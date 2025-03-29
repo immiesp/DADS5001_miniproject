@@ -5,13 +5,13 @@
 จากข้อมูลการปล่อยก๊าซเรือนกระจกของ Climate Watch Platform พบว่า ประเทศไทยมีปริมาณการปล่อยก๊าซเรือนกระจกเพิ่มขึ้นในทุกๆ ปี (Figure 1) ซึ่ง ส่วนใหญ่มาจากภาคพลังงาน อ้างอิงรายงาน Thailand’s fourth biennial update report ของสำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม (Figure 2)
 
 <p align="center">
-  <img src="" width="1000"/>
+  <img src="https://i.imgur.com/MOXo37h.png" width="1000"/>
   <br>
   <em>Figure 1: ปริมาณการปล่อยก๊าซเรือนกระจกของประเทศไทย ตั้งแต่ปี 1990 – 2021 </em>
 </p>
 
 <p align="center">
-  <img src="" width="1000"/>
+  <img src="https://i.imgur.com/GTHicYJ.png" width="1000"/>
   <br>
   <em>Figure 2: ปริมาณการปล่อยและการดูดซับก๊าซเรือนกระจก แยกตามภาคส่วน ตั้งแต่ปี 2000 – 2019 </em>
 </p>
