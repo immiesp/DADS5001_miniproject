@@ -91,7 +91,7 @@ Mini project นี้ ได้ศึกษาปริมาณการใช
   <img src="https://github.com/immiesp/DADS5001_miniproject/blob/main/figures/Figure7.png?raw=true" width="1000"/>
 </p>
 <p align="center"><em>Figure 7: ปริมาณการใช้ไฟฟ้า ตั้งแต่ปี 2014–2024 (สูงสุด 3 อันดับแรก)  
-แยกตามประเภทธุรกิจ</em></p>
+แยกตามประเภทธุรกิจ (Stacked Area Chart) </em></p>
 
 
 ## Part 3: ปริมาณการผลิตไฟฟ้าของประเทศไทย ตั้งแต่ปี 2014-2024 แยกตามประเภทเชื้อเพลิง 
@@ -144,7 +144,7 @@ Mini project นี้ ได้ศึกษาปริมาณการใช
 <p align="center">
   <img src="https://github.com/immiesp/DADS5001_miniproject/blob/main/figures/Figure11.png?raw=true" width="1000"/>
 </p>
-<p align="center"><em>Figure 11: ปริมาณการปล่อยก๊าซคาร์บอนไดออกไซด์ (CO₂) จากการผลิตไฟฟ้าของประเทศไทย ตั้งแต่ปี 2014–2024 แยกตามประเภทเชื้อเพลิง</em></p>
+<p align="center"><em>Figure 11: ปริมาณการปล่อยก๊าซคาร์บอนไดออกไซด์ (CO₂) จากการผลิตไฟฟ้าของประเทศไทย ตั้งแต่ปี 2014–2024 แยกตามประเภทเชื้อเพลิง (Stacked Area Chart) </em></p>
 
 
 #### 4.3) อัตราการปล่อย CO₂ ต่อการผลิตไฟฟ้า (1,000 tons/GWh)  
